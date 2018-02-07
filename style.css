@@ -1,0 +1,23 @@
+.company-details {
+    color: teal;
+}
+
+h1 {
+    color: brown;
+}
+
+.profile-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: burlywood;
+}
+.blue{
+    background-color: aqua;
+}
+.white {
+    background-color: ghostwhite;
+}
